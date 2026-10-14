@@ -1,7 +1,7 @@
 {
   "version": "0.1.5",
-  "buildNumber": 100013,
-  "downloadUrl": "https://github.com/donnydisart/helium-s-updates/releases/download/helium-s-signed-100013/helium-s-signed-debug.apk",
-  "sha256": "31ff13c422701d971778b90d9b4a9b5085ac50417e79b1d29e0f641896f4cd1c",
+  "buildNumber": 100014,
+  "downloadUrl": "https://github.com/donnydisart/helium-s-updates/releases/download/helium-s-signed-100014/helium-s-signed-debug.apk",
+  "sha256": "5b94186238f1a95d00c2730dacaf6a169268ef2d7ec3efef6e0243a4071e65cd",
   "notes": "Новая тестовая версия Helium S. Улучшения и исправления."
 }
